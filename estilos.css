@@ -1,0 +1,29 @@
+body{
+background-color: rgb(255, 227, 193);
+color:aliceblue;
+font-family: 'Playpen Sans', cursive;
+}
+/*Hola, así se pone un comentario, ahora serán colores hexadecimales, espacio*.*/
+h1, p ´´{color: rgb(255, 125, 186);
+}
+.img1 {
+width: 300px;
+height: 400px;
+border-style:double inset;
+border-width: 10px;
+border-color:rgb(255, 125, 186);
+margin-left: 50px;
+padding: 10px;
+}
+/*Bottom abajo, top arriba, en marging. Para todas la img es la que sigue, quitar uno eligiendo, poner las imagenes en mi carpeta*/
+img{
+width: 300px;
+height: 400px;
+}
+footer{
+    background-color:aquamarine;
+}
+small, a{
+    color:aqua;
+    padding-bottom: 0px;
+}
